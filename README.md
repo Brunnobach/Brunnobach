@@ -32,13 +32,13 @@ What I bring:
 
 ### Production-Ready Systems
 
-| Project | Description | Live Page | Stack |
-|---------|-------------|-----------|-------|
-| **[biogas-mlops](https://github.com/Brunnobach/biogas-mlops)** | End-to-end MLOps pipeline for biogas forecasting | [🌐 Demo](https://brunnobach.github.io/biogas-mlops/) | Python, MLflow, FastAPI, Docker, scikit-learn |
-| **[rag-technical-assistant](https://github.com/Brunnobach/rag-technical-assistant)** | RAG-based AI assistant for technical documents | [🌐 Demo](https://brunnobach.github.io/rag-technical-assistant/) | Python, LangChain, ChromaDB, FastAPI |
-| **[system-design-portfolio](https://github.com/Brunnobach/system-design-portfolio)** | System design case studies and ADRs | [🌐 Demo](https://brunnobach.github.io/system-design-portfolio/) | Markdown, Mermaid, Architecture |
-| **[industrial-iot-platform](https://github.com/Brunnobach/industrial-iot-platform)** | IoT data platform for sensor monitoring | [🌐 Demo](https://brunnobach.github.io/industrial-iot-platform/) | Python, MQTT, InfluxDB, FastAPI, Grafana |
-| **[esg-data-platform](https://github.com/Brunnobach/esg-data-platform)** | Cloud-native ESG and sustainability platform | [🌐 Demo](https://brunnobach.github.io/esg-data-platform/) | Python, FastAPI, PostgreSQL, Docker |
+| Project | Description | Live Page | Stack | Status |
+|---------|-------------|-----------|-------|--------|
+| **[biogas-mlops](https://github.com/Brunnobach/biogas-mlops)** | End-to-end MLOps pipeline for biogas forecasting. Includes data generation, feature engineering, scikit-learn model training (R² = 0.965), MLflow tracking, FastAPI inference, Docker Compose, pytest and GitHub Actions CI/CD. | [🌐 Demo](https://brunnobach.github.io/biogas-mlops/) | Python, MLflow, FastAPI, Docker, scikit-learn, pytest | ✅ Validated |
+| **[rag-technical-assistant](https://github.com/Brunnobach/rag-technical-assistant)** | RAG-based assistant for technical PDFs. PDF upload, semantic chunking, sentence-transformer embeddings, ChromaDB vector store, FastAPI `/query` with citations and `/reset`. Fully local — no OpenAI key required. | [🌐 Demo](https://brunnobach.github.io/rag-technical-assistant/) | Python, FastAPI, ChromaDB, LangChain, sentence-transformers, pytest | ✅ Validated |
+| **[system-design-portfolio](https://github.com/Brunnobach/system-design-portfolio)** | Architecture decision records and case studies for MLOps, IoT, RAG and ESG platforms. Includes trade-offs, diagrams, scalability considerations and operational concerns. | [🌐 Demo](https://brunnobach.github.io/system-design-portfolio/) | Markdown, Mermaid, Architecture | ✅ Published |
+| **[industrial-iot-platform](https://github.com/Brunnobach/industrial-iot-platform)** | Industrial IoT data platform with MQTT sensor simulator, ingestion service, InfluxDB time-series storage, FastAPI REST API and Grafana dashboards. Validated end-to-end with Docker Compose. | [🌐 Demo](https://brunnobach.github.io/industrial-iot-platform/) | Python, MQTT, Mosquitto, InfluxDB, FastAPI, Grafana, Docker | ✅ Validated |
+| **[esg-data-platform](https://github.com/Brunnobach/esg-data-platform)** | Cloud-native ESG data platform with FastAPI, PostgreSQL and SQLAlchemy. Calculates carbon footprint, energy/water intensity, waste diversion and composite ESG scores with A/B/C/D ratings. | [🌐 Demo](https://brunnobach.github.io/esg-data-platform/) | Python, FastAPI, PostgreSQL, SQLAlchemy, Docker, pytest | ✅ Validated |
 
 ### Original Products & AI Agents
 
