@@ -30,6 +30,18 @@ What I bring:
 
 ## 🚀 Featured Projects
 
+### Production-Ready Systems
+
+| Project | Description | Live Page | Stack |
+|---------|-------------|-----------|-------|
+| **[biogas-mlops](https://github.com/Brunnobach/biogas-mlops)** | End-to-end MLOps pipeline for biogas forecasting | [🌐 Demo](https://brunnobach.github.io/biogas-mlops/) | Python, MLflow, FastAPI, Docker, scikit-learn |
+| **[rag-technical-assistant](https://github.com/Brunnobach/rag-technical-assistant)** | RAG-based AI assistant for technical documents | [🌐 Demo](https://brunnobach.github.io/rag-technical-assistant/) | Python, LangChain, ChromaDB, FastAPI |
+| **[system-design-portfolio](https://github.com/Brunnobach/system-design-portfolio)** | System design case studies and ADRs | [🌐 Demo](https://brunnobach.github.io/system-design-portfolio/) | Markdown, Mermaid, Architecture |
+| **[industrial-iot-platform](https://github.com/Brunnobach/industrial-iot-platform)** | IoT data platform for sensor monitoring | [🌐 Demo](https://brunnobach.github.io/industrial-iot-platform/) | Python, MQTT, InfluxDB, FastAPI, Grafana |
+| **[esg-data-platform](https://github.com/Brunnobach/esg-data-platform)** | Cloud-native ESG and sustainability platform | [🌐 Demo](https://brunnobach.github.io/esg-data-platform/) | Python, FastAPI, PostgreSQL, Docker |
+
+### Original Products & AI Agents
+
 ### [biogas_ai](https://github.com/Brunnobach/biogas_ai)
 **Autonomous multi-agent AI platform for biogas engineering**
 
