@@ -8,7 +8,7 @@ Building production-ready software and AI systems for **sustainability, renewabl
 
 🌱 Renewable Energy · ⚡ Biogas · 🤖 AI Agents · ☁️ Cloud Architecture · 📊 Data Systems
 
-[LinkedIn](https://www.linkedin.com/in/brunno-bachmann-865429173) · [Email](mailto:brunnobachmann@gmail.com) · [4WaTT](https://4watt.com.br)
+[LinkedIn](https://www.linkedin.com/in/brunno-bachmann-865429173) · [Email](mailto:brunnobachmann@gmail.com) · [4WaTT](https://4watt.tech)
 
 </div>
 
