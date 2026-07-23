@@ -38,7 +38,7 @@ What I bring:
 | **[rag-technical-assistant](https://github.com/Brunnobach/rag-technical-assistant)** | RAG-based assistant for technical PDFs. PDF upload, semantic chunking, sentence-transformer embeddings, ChromaDB vector store, FastAPI `/query` with citations and `/reset`. Fully local — no OpenAI key required. | [🌐 Demo](https://brunnobach.github.io/rag-technical-assistant/) | Python, FastAPI, ChromaDB, LangChain, sentence-transformers, pytest | ✅ Validated |
 | **[system-design-portfolio](https://github.com/Brunnobach/system-design-portfolio)** | Architecture decision records and case studies for MLOps, IoT, RAG and ESG platforms. Includes trade-offs, diagrams, scalability considerations and operational concerns. | [🌐 Demo](https://brunnobach.github.io/system-design-portfolio/) | Markdown, Mermaid, Architecture | ✅ Published |
 | **[industrial-iot-platform](https://github.com/Brunnobach/industrial-iot-platform)** | Industrial IoT data platform with MQTT sensor simulator, ingestion service, InfluxDB time-series storage, FastAPI REST API and Grafana dashboards. Validated end-to-end with Docker Compose. | [🌐 Demo](https://brunnobach.github.io/industrial-iot-platform/) | Python, MQTT, Mosquitto, InfluxDB, FastAPI, Grafana, Docker | ✅ Validated |
-| **[esg-data-platform](https://github.com/Brunnobach/esg-data-platform)** | Cloud-native ESG data platform with FastAPI, PostgreSQL and SQLAlchemy. Calculates carbon footprint, energy/water intensity, waste diversion and composite ESG scores with A/B/C/D ratings. | [🌐 Demo](https://brunnobach.github.io/esg-data-platform/) | Python, FastAPI, PostgreSQL, SQLAlchemy, Docker, pytest | ✅ Validated |
+
 
 ### Original Products & AI Agents
 
